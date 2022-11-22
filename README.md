@@ -1,1 +1,1 @@
-# ET718-09062022-rails-blog
+# ET718MIDTERM
